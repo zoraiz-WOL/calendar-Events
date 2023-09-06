@@ -1,0 +1,6 @@
+framework module Pods_Habit_CalendarTests {
+  umbrella header "Pods-Habit-CalendarTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

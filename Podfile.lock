@@ -1,0 +1,24 @@
+PODS:
+  - JTAppleCalendar (7.1.6)
+  - SwiftLint (0.27.0)
+  - UIColor_Hex_Swift (4.0.2)
+
+DEPENDENCIES:
+  - JTAppleCalendar (~> 7.1.6)
+  - SwiftLint
+  - UIColor_Hex_Swift (~> 4.0.2)
+
+SPEC REPOS:
+  trunk:
+    - JTAppleCalendar
+    - SwiftLint
+    - UIColor_Hex_Swift
+
+SPEC CHECKSUMS:
+  JTAppleCalendar: abb30678f42a4ef8a340a932b1dcb8c85a33dac2
+  SwiftLint: 3207c1faa2240bf8973b191820a116113cd11073
+  UIColor_Hex_Swift: 2fb123c7d864994a5137ef57c4dc55e17a657d29
+
+PODFILE CHECKSUM: de67cf108299f4251293be86855adec2a95d239e
+
+COCOAPODS: 1.11.3
